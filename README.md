@@ -45,10 +45,6 @@ For both programs, data should be organized in a specific manner:
 
 
 
-## License
-
-[Specify the license here or indicate "MIT License" if applicable]
-
 ## Acknowledgments
 
 - Acknowledge any collaborators, advisors, or institutions that supported this work.
