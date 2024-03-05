@@ -1,31 +1,3 @@
-% Created by MCalibration (version 7.2.10) on Tue Jan 16 17:38:37 2024
-% column 1: Time
-% column 2: True Strain
-% column 3: Column 3 
-% column 4: True Stress
-%
-% Information and commands:
-% % Created by MCalibration (version 7.2.10) on Tue Jan 16 17:30:19 2024
-% % column 1: Time
-% % column 2: True Strain
-% % column 3: Column 3
-% % column 4: True Stress
-% %
-% % Information and commands:
-% % Open file Elastollan_Temp37_Strainrate0.01_raw.csv.
-% % Set name of column 0 to Time.
-% % Set name of column 1 to True Strain.
-% % Set name of column 3 to True Stress.
-% % Smooth rows 0 to 4764 in column 0 using a moving average of 200.
-% % Smooth rows 0 to 4692 in column 3 using a moving average of 200.
-% % Removing rows 0 to 2.
-% % Set zero point by adding a new initial row
-% % Save file Elastollan_Temp37_Strainrate0.01.csv.
-% %
-% Open file 'Elastollan_Temp37_Strainrate0.01.csv'.
-% Removing rows 19863 to 19997.
-% Save file 'Elastollan_Temp37_Strainrate0.01.csv'.
-%
 0, 0, 0, 0
 3.56988700214, 0.0244822909557, -0.0117514996761, 1.14104448066
 3.58717065454, 0.0246008222724, -0.0118083947082, 1.14656886173
