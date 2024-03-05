@@ -39,12 +39,12 @@ For both programs, data should be organized in a specific manner:
 ## Requirements
 
 - MATLAB (Version recommended: 2023b).
-# Toolboxes
+### Toolboxes
 - Image processing toolbox
 - Curve Fitting Toolbox
 - Computer Vision Toolbox
 
-# Matlab Add-ons
+### Matlab Add-ons
 The program uses a Matlab addon to display the progress of the programs. 
 downloaded here: https://se.mathworks.com/matlabcentral/fileexchange/56871-command-line-progress-bar-waitbar
 
