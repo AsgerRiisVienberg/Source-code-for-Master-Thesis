@@ -45,10 +45,6 @@ For both programs, data should be organized in a specific manner:
 
 
 
-## Acknowledgments
-
-- Acknowledge any collaborators, advisors, or institutions that supported this work.
-
 ## Contact
 
 For questions or further information, please contact Asger Riis Vienberg at avienberg@hotmail.com
