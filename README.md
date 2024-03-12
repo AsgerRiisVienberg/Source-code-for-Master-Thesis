@@ -22,6 +22,9 @@ The `StrainMeasuring` script is used to process images to find strains on the te
 It is structured in blocks, with the first block dedicated to loading and processing images, and subsequent blocks focusing on smoothing and post-processing.
 The use of the subsequent block is optional. For all data presented in the final report, the post-processing was performed using Mcalibration.
 
+### 1. Neo-Hookean incremental solver
+Matlab script that solves the compressible Neo-Hookean equations using the incremental Euler method.
+
 #### Usage
 
 - Run the `StrainMeasuring` script directly in MATLAB.
@@ -29,7 +32,7 @@ The use of the subsequent block is optional. For all data presented in the final
 
 ## Data Structure
 
-For both programs, data should be organized in a specific manner:
+For both data prosseing programs, data should be organized in a specific manner:
 
 - Create a master folder for all your experiments.
 - Inside the master folder, create separate folders for each experiment. Name this folder how you like.
