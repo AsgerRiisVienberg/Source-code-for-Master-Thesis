@@ -4,7 +4,7 @@ This repository contains two MATLAB programs developed as part of my master's th
 These programs are designed to process experimental images for specific analyses. 
 Below you will find instructions on how to use each script, along with the required data structure.
 
-## Programs
+## Programs for dataprocessing
 
 ### 1. Cropping Script
 
@@ -22,8 +22,13 @@ The `StrainMeasuring` script is used to process images to find strains on the te
 It is structured in blocks, with the first block dedicated to loading and processing images, and subsequent blocks focusing on smoothing and post-processing.
 The use of the subsequent block is optional. For all data presented in the final report, the post-processing was performed using Mcalibration.
 
+## Numerical solvers
+
 ### 1. Neo-Hookean incremental solver
 Matlab script that solves the compressible Neo-Hookean equations using the incremental Euler method.
+
+### 2. 1D viscoelastic-viscoplast sovler for the Mullerkin-Boyce model 
+This Matlab script combines the algorithem for integrating nonlinear constitutive equations with th iterative solvers as an example of how to numerically solve a nonlinear set of constitutive equations in 1D.
 
 #### Usage
 
