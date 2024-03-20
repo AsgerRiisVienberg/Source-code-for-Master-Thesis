@@ -22,6 +22,9 @@ The `StrainMeasuring` script is used to process images to find strains on the te
 It is structured in blocks, with the first block dedicated to loading and processing images, and subsequent blocks focusing on smoothing and post-processing.
 The use of the subsequent block is optional. For all data presented in the final report, the post-processing was performed using Mcalibration.
 
+### 3. fitfun 
+Script for running the virtual experiments based on the Ree-Errying model.
+
 ## Numerical solvers
 
 ### 1. Neo-Hookean incremental solver
