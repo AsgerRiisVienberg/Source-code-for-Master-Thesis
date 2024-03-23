@@ -25,6 +25,9 @@ The use of the subsequent block is optional. For all data presented in the final
 ### 3. fitfun 
 Script for running the virtual experiments based on the Ree-Errying model.
 
+### 4. Path Generator
+This folder contains two scripts that generate the displacement paths for the the tensile test.
+
 ## Numerical solvers
 
 ### 1. Neo-Hookean incremental solver
